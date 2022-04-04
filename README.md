@@ -1,2 +1,2 @@
 # Java-Console-ATM-Application
-It is a console based JAVA application which performs all the basic functions of an ATM. It provides a basic user interface of an ATM machine. 
+It is a console based JAVA application which performs all the basic functions of an ATM. It provides a basic user interface of an ATM machine. So basically we have prepared a console based application in java which performs actions like verifying account number and pin, providing mini statement, cash withdrwal and cash deposit and pin change. Our console application is conected to sql database which makes it more efficient to use and user friendly.
